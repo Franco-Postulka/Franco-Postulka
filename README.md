@@ -3,7 +3,7 @@
 Soy un **Desarrollador FullStack** apasionado por crear soluciones tanto en el backend como en el frontend. Con experiencia en tecnologías como **.NET**, **C#**, **Python**, **Django**, **JavaScript**, y **SQL**.
 
 Soy estudiante de la Tecnicatura Universitaria en Programación en la UTN y me gusta aplicar lo que aprendo en cada proyecto para mejorar mis habilidades. Me encanta el desarrollo web y estoy siempre en busca de nuevos desafíos que me permitan crecer como profesional.
-https://github-readme-stats-plum-six-66.vercel.app/
+
 ![Top Langs](https://github-readme-stats-plum-six-66.vercel.app/api/top-langs/?username=Franco-Postulka&layout=compact)
 
 ## Tecnologías y herramientas que utilizo:
