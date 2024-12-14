@@ -4,7 +4,7 @@ Soy un **Desarrollador FullStack** apasionado por crear soluciones tanto en el b
 
 Soy estudiante de la Tecnicatura Universitaria en Programación en la UTN y me gusta aplicar lo que aprendo en cada proyecto para mejorar mis habilidades. Me encanta el desarrollo web y estoy siempre en busca de nuevos desafíos que me permitan crecer como profesional.
 
-![Top Langs](https://<tu-dominio>.vercel.app/api/top-langs?username=Franco-PostulkaO&count_private=true&layout=compac)
+![Top Langs](https://github-readme-stats-plum-six-66.vercel.app/api/top-langs/?username=Franco-Postulka&count_private=true&layout=compact)
 
 ## Tecnologías y herramientas que utilizo:
 - **Lenguajes:** C#, Python, JavaScript
