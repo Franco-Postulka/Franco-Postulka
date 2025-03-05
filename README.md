@@ -1,8 +1,8 @@
 # ¡Hola! 👋 Soy Franco Postulka Aieta
 
-Soy un **Desarrollador FullStack** apasionado por crear soluciones tanto en el backend como en el frontend. Con experiencia en tecnologías como **.NET**, **C#**, **Python**, **Django**, **JavaScript**, y **SQL**.
+Soy **Desarrollador de Software** con experiencia en backend y frontend. Trabajo con Python (Django, DRF), React, Next.js y TypeScript desarrollando aplicaciones web y APIs.
 
-Soy estudiante de la Tecnicatura Universitaria en Programación en la UTN y me gusta aplicar lo que aprendo en cada proyecto para mejorar mis habilidades. Me encanta el desarrollo web y estoy siempre en busca de nuevos desafíos que me permitan crecer como profesional.
+Estudio la **Tecnicatura Universitaria en Programación (UTN)** y disfruto aplicar lo que aprendo en proyectos reales. Me interesa seguir mejorando como programador y aprender nuevas tecnologías.
 
  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Franco-Postulka&theme=dark&hide_border=true" />
 
