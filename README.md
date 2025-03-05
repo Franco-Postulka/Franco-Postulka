@@ -1,10 +1,11 @@
-# ¡Hola! 👋 Soy Franco Postulka Aieta
+# <h1 align="center">¡Hola! Soy Franco Postulka Aieta <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<div align="center">
+ <img src="https://readme-typing-svg.demolab.com/?lines=Estudiante+de+Programación+en+UTN;Desarrollador+de+Software" align="center" />
+</div>
 
 Soy **Desarrollador de Software** con experiencia en backend y frontend. Trabajo con Python (Django, DRF), React, Next.js y TypeScript desarrollando aplicaciones web y APIs.
 
 Estudio la **Tecnicatura Universitaria en Programación (UTN)** y disfruto aplicar lo que aprendo en proyectos reales. Me interesa seguir mejorando como programador y aprender nuevas tecnologías.
-
- <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Franco-Postulka&theme=dark&hide_border=true" />
 
 <div align="center">
   <h2 align="center">Tecnologías y herramientas que conozco:👨🏻‍💻</h2>
