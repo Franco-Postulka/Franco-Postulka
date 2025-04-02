@@ -3,9 +3,9 @@
  <img src="https://readme-typing-svg.demolab.com/?lines=Estudiante+de+Programación+en+UTN;Desarrollador+de+Software" align="center" />
 </div>
 
-Soy **Desarrollador de Software** con experiencia en backend y frontend. Trabajo con Python (Django, DRF), React, Next.js y TypeScript desarrollando aplicaciones web y APIs.
+Soy **Desarrollador de Software** con experiencia en backend y frontend. Trabajo con Python (Django, DRF), React, Next.js y TypeScript desarrollando aplicaciones web.
 
-Estudio la **Tecnicatura Universitaria en Programación (UTN)** y disfruto aplicar lo que aprendo en proyectos reales. Me interesa seguir mejorando como programador y aprender nuevas tecnologías.
+Estudio la **Tecnicatura Universitaria en Programación (UTN)** y disfruto aplicar lo que aprendo en proyectos. Me interesa seguir mejorando como programador y aprender nuevas tecnologías.
 
 <div align="center">
   <h2 align="center">Tecnologías y herramientas que conozco:👨🏻‍💻</h2>
