@@ -1,6 +1,6 @@
 # <h1 align="center">¡Hola! Soy Franco Postulka Aieta <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <div align="center">
- <img src="https://readme-typing-svg.demolab.com/?lines=Estudiante+de+Programación+en+UTN;Desarrollador+de+Software" align="center" />
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Estudiante+de+Programaci%C3%B3n+en+UTN;Desarrollador+de+Software" alt="Typing SVG" /></a>
 </div>
 
 Soy **Desarrollador de Software** con experiencia en backend y frontend. Trabajo con Python (Django, DRF), React, Next.js y TypeScript desarrollando aplicaciones web.
