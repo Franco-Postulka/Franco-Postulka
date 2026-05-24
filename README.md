@@ -3,9 +3,7 @@
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Estudiante+de+Programaci%C3%B3n+en+UTN;Desarrollador+de+Software" alt="Typing SVG" /></a>
 </div>
 
-Soy **Desarrollador de Software** con experiencia en backend y frontend. Trabajo con Python (Django, DRF), React, Next.js y TypeScript desarrollando aplicaciones web.
-
-Estudio la **Tecnicatura Universitaria en Programación (UTN)** y disfruto aplicar lo que aprendo en proyectos. Me interesa seguir mejorando como programador y aprender nuevas tecnologías.
+Desarrollador de Software orientado al desarrollo de aplicaciones web utilizando React, Next.js, TypeScript y Django REST Framework. Experiencia desarrollando funcionalidades frontend y backend para sistemas administrativos y de gestión en proyectos del sector privado y organismos públicos.
 
 <div align="center">
   <h2 align="center">Tecnologías y herramientas que conozco:👨🏻‍💻</h2>
